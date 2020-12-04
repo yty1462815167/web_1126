@@ -1,0 +1,59 @@
+.zhumiddle{
+	text-align: center;
+}
+
+.wei{
+	width:300px ;
+	height: 219px;
+	position: relative;
+	left: 560px;
+	top: 40px;
+	z-index: 1;
+	
+}
+
+.wei a{
+	text-decoration: none;
+	color:  #00B6E8;
+}
+#yun{
+	
+	position: absolute;
+	left: -110px;
+	top: 2px;
+	display: none;
+}
+
+#yun1{
+	width:500px ;
+	height: 209px;
+}
+
+.dengtuo{
+	vertical-align: middle;
+}
+
+.dengtuo span{
+	font-size: 40px;
+	margin: 30px;
+}
+#xian{
+	position: absolute;
+	left: 940px;
+	top: 300px;
+}
+.zuo{
+	position: absolute;
+	left: 280px;
+	top: 500px;
+}
+.zuo span{
+	padding-left: 190px;
+}
+.you{
+	position: absolute;
+	left: 1080px;
+	top: 300px;
+}
+
+

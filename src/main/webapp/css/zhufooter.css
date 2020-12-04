@@ -1,0 +1,275 @@
+.b1 p input {
+	width: 500px;
+	height: 50px;
+	margin-top: 30px;
+	border-radius: 5px;
+	border: solid 1px gainsboro;
+}
+
+.you {
+	position: relative;
+	left: 300px;
+	top: -150px;
+}
+
+#zi {
+	position: relative;
+	left: -190px;
+}
+
+#zi span {
+	padding-left: 10px;
+}
+
+#btn {
+	height: 50px;
+	border-radius: 5px;
+	border: solid 1px gainsboro;
+	background-color: #00A1D6;
+	color: white;
+	font-size: 15px;
+	position: relative;
+	left: -40px;
+}
+
+#duan1 {
+	width: 400px;
+	height: 50px;
+	margin-top: 30px;
+	border-radius: 5px;
+	border: solid 1px gainsboro;
+}
+
+#duan2 {
+	width: 500px;
+	height: 50px;
+	margin-top: 30px;
+	border-radius: 5px;
+	border: solid 1px gainsboro;
+	position: relative;
+	left: 40px;
+}
+
+.s1 {
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+	border: solid 1px gainsboro;
+	position: relative;
+	left: 5px;
+}
+
+.b2 {
+	display: none;
+}
+
+#f1 {
+	padding-top: 30px;
+	padding-right: -100px;
+}
+
+#f1 span a {
+	text-decoration: none;
+	color: #A5AAD9;
+}
+
+#f1 span {
+	padding-left: 20px;
+	color: #BBBBBB;
+}
+
+#duan3 {
+	width: 200px;
+	height: 50px;
+	font-size: 15px;
+	color: white;
+	background-color: #A5AAD9;
+	border-radius: 5px;
+	border: solid 1px gainsboro;
+}
+
+#duan4 {
+	width: 200px;
+	height: 50px;
+	font-size: 15px;
+	background-color: white;
+	border-radius: 5px;
+	border: solid 1px gainsboro;
+}
+
+#f2 {
+	position: relative;
+	left: -50px;
+	margin-top: 30px;
+}
+
+#f2 input {
+	margin-left: 100px;
+}
+
+#f3 {
+	vertical-align: middle;
+	position: relative;
+	left: -130px;
+	margin-top: 10px;
+}
+#f3 a{
+	text-decoration: none;
+}
+
+#f4 a {
+	text-decoration: none;
+	color: #52C3F1;
+}
+
+#f4 {
+	text-align: center;
+	font-size: 15px;
+	position: relative;
+	top: -100px;
+	color: #00A1D6;
+}
+
+.zhufooter {
+	width: 1900px;
+	height: 460px;
+	background-color: #F9F9F9;
+	position: relative;
+}
+
+.ul1 ul {
+	float: left;
+	padding-left: 50px;
+	padding-top: 30px;
+}
+
+.ul1 ul li {
+	list-style: none;
+	padding-top: 15px;
+}
+
+.ul1 ul li a {
+	text-decoration: none;
+	color: black;
+	font-size: 15px;
+}
+
+#u1 p {
+	font-size: 20px;
+	color: #999999;
+}
+
+#u2 {
+	position: relative;
+	left: 150px;
+	top: 28px;
+}
+
+#u3 {
+	position: relative;
+	left: 330px;
+}
+
+#u3 p {
+	font-size: 20px;
+	color: #999999;
+}
+
+#u4 {
+	position: relative;
+	left: 460px;
+	top: 28px;
+}
+
+#u5 {
+	position: relative;
+	left: 580px;
+	top: 28px;
+}
+
+.ul2 ul {
+	position: relative;
+	left: 660px;
+	top: 40px;
+}
+
+.ul2 ul li {
+	float: left;
+	padding-left: 40px;
+}
+
+.ul2 ul li #sp1,
+#sp2,
+#sp3 {
+	display: block;
+}
+
+
+
+#im1{
+	position: relative;
+	left: 330px;
+	top: -60px;
+	display: none;
+}
+
+#im2{
+	position: relative;
+	left: 440px;
+	top: -60px;
+	display: none;
+}
+
+#im3{
+	position: relative;
+	left: 350px;
+	top: -80px;
+	display: none;
+	
+}
+.di ul li{
+	list-style: none;
+}
+
+.di ul li img{
+	height: 45px;
+}
+
+.di ul{
+	float: left;
+	position: absolute;
+	left: 30px;
+	top: 230px;
+}
+.di p{
+	position: absolute;
+	left: 180px;
+	top: 230px;
+	font-size: 13px;
+	color:#999999 ;
+}
+
+.di #text2{
+	position: absolute;
+	top: 260px;
+}
+.di #text3{
+	position: absolute;
+	top: 290px;
+}
+.di #text4{
+	position: absolute;
+	top: 320px;
+}
+.di #text5{
+	position: absolute;
+	top: 350px;
+}
+.di #text6{
+	position: absolute;
+	top: 380px;
+}
+.di #text7{
+	position: absolute;
+	top: 410px;
+}

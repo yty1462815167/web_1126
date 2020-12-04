@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="monthtest" />
+        <module name="web_1129" />
+        <module name="web_1130" />
+        <module name="web_1201" />
+        <module name="web_1202" />
+        <module name="web_mall" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="web_1102" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

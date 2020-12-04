@@ -1,0 +1,55 @@
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.banner .my {
+	width: 1900px;
+	height: 401px;
+	margin: 0px auto;
+	overflow: hidden;
+	position: relative;
+	z-index: 1;
+}
+
+.num {
+	position: absolute;
+	top: 360px;
+	right: 900px;
+	z-index: 2;
+	border-radius: 50px;
+}
+
+.num li {
+	float: left;
+	width: 15px;
+	height: 15px;
+	line-height: 30px;
+	border-radius: 50%;
+	background: papayawhip;
+	text-align: center;
+	margin: 0 4px;
+	font-weight: bolder;
+}
+
+.num li a {
+	color: #000;
+}
+
+.num li:hover,
+.num .active {
+	background: coral;
+}
+
+.num li:hover a,
+.num .active a {
+	color: #fff;
+}
+
+.banner .slide_box li {
+	height: 401px;
+	position: relative;
+}

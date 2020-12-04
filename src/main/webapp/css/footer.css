@@ -1,0 +1,43 @@
+.footer {
+	background-color: #F6F9FA;
+	height: 201px;
+	width: 1900px;
+	position: absolute;
+	top: 1300px;
+}
+
+
+.pig1{
+	position: absolute;
+	left: 340px;
+	top: 30px;
+	
+}
+.text span a{
+	text-decoration: none;
+	color: #0089BC;
+}
+
+
+
+
+.text{
+	font-size: 13px;
+	padding-top: 2px;
+	position: absolute;
+	left: 870px;
+	top: 20px;
+}
+.text p{
+	color: #ADAEAF;
+}
+
+
+#t1{
+	vertical-align: middle;
+}
+
+.text p a{
+	text-decoration: none;
+	color: #ADAEAF;
+}

@@ -1,0 +1,64 @@
+.middle{
+	width: 1400px;
+	padding-left: 300px;
+}
+
+.middle h1{
+	margin-top: 15px;
+}
+
+.middle h1 img{
+	vertical-align: middle;
+	
+}
+.sd{
+	height: 300px;
+	width: 220px;
+	border: solid 1px  grey;
+	border-radius: 10px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+/*div*/
+.sd:hover{
+	background-color: blueviolet;	
+}
+
+/*.sd #p1,.sd #p2:hover{
+	color: white;
+}*/
+
+.pig img{
+	height: 100px;
+	width: 100px;
+	padding:30px 60px 0px 60px;
+}
+.pig #p1{
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+
+
+.pig #p2{
+	font-size: 15px;
+	color:  #99A2AA;
+	text-align: center;
+}
+
+.pig #p3{
+	font-size: 15px;
+	color:  #99A2AA;
+	text-decoration: line-through;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.pig #p4{
+	font-size: 15px;
+	color:  #FB7299;
+	text-align: center;
+}
+
+
